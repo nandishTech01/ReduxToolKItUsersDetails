@@ -6,7 +6,6 @@ const UserDetails = () => {
   return (
     <Wrapper>
    <div> 
-    <div>UserDetails</div>
       <div className="content"></div>
 
     <div className="admin-table">
